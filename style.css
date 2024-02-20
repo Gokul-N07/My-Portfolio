@@ -1,0 +1,14 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.banner{
+    background-image: url("Images/pngtree-green-watercolor-landscape-computer-desktop-wallpaper-image_733324.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+
+.skills-padding{
+    padding: 70px 0;
+}
